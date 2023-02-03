@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I'm Lucía, I'm a 20 years old capricorn cat lover :)<br>Currently learning Front-End Development. Also a Digital Arts student<br>
+Hey! I'm Lucía, I'm a 21 years old capricorn cat lover :)<br>Currently learning Front-End Development. Also a Digital Arts student<br>
 
 
 ## 🌐 Socials:
